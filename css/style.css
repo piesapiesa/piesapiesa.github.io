@@ -1,0 +1,24 @@
+/* Fuentes */
+
+@font-face {
+    font-family: 'redaction_70-bold';
+    src: url('fonts/redaction/webfonts/Redaction_70-Bold.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.centered {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -80%);
+}
+
+#titulo {
+    font-family: 'redaction_70-bold';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 200px;	
+
+    color: #000;
+}
